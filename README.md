@@ -1,4 +1,4 @@
-# Nome do sistema: Luma
+# Nome Do Sistema: Luma
 
 Descrição do sistema: O Luma é um sistema de streaming desenvolvido com o objetivo de gerenciar e disponibilizar conteúdos, como filmes, séries e documentários, para usuários.
 
