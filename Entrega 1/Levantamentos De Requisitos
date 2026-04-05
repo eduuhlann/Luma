@@ -1,6 +1,6 @@
 # Levantamentos De Requisitos (Mini-Mundo)
 
-Requisitos Funcionais (RF):
+- Requisitos Funcionais (RF):
 
 O sistema deve permitir o cadastro, edição e exclusão de usuários
 O sistema deve permitir a criação e gerenciamento de perfis vinculados a uma conta
@@ -17,7 +17,7 @@ O sistema deve permitir a busca de conteúdos por título, gênero e categoria
 O sistema deve controlar o número de telas simultâneas conforme cada plano
 O sistema deve armazenar informações dos dispositivos utilizados para acesso
 
-Regras De Negócio (RN):
+- Regras De Negócio (RN):
 
 Um usuário deve possuir pelo menos um perfil associado à sua conta
 Um perfil pertence exclusivamente a uma conta
