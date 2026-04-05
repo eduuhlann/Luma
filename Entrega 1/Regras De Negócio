@@ -1,0 +1,18 @@
+# Regras De Negócio (RN):
+
+Um usuário deve possuir pelo menos um perfil associado à sua conta
+Um perfil pertence exclusivamente a uma conta
+Um usuário só pode acessar os conteúdos se possuir uma assinatura ativa
+O número de telas simultâneas deve respeitar o limite do plano contratado
+Um perfil não pode reproduzir mais de um conteúdo simultaneamente
+Avaliações só podem ser realizadas por usuários que assistiram ao conteúdo
+Cada perfil pode manter sua própria lista de conteúdos favoritos
+Pagamentos devem estar vinculados a uma assinatura válida
+Uma série deve possuir pelo menos uma temporada cadastrada
+Uma temporada deve possuir pelo menos um episódio
+O histórico de visualização deve ser armazenado por perfil
+Um plano de assinatura deve possuir preço e características definidas
+Um conteúdo pode pertencer a um ou mais gêneros
+Um dispositivo pode estar associado a múltiplos acessos, mas deve ser registrado
+Recomendações devem considerar o histórico e preferências do perfil
+Os planos de assinatura devem ser validados pela plataforma de pagamentos
